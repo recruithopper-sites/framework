@@ -2,10 +2,10 @@
 // For 10DLC approval, legalName must match the legal business name registered
 // with The Campaign Registry (exactly as on your EIN / IRS paperwork).
 const SITE = {
-  legalName: {{LEGAL_NAME_JS}},
-  email: {{EMAIL_JS}},
-  phone: {{PHONE_JS}},
-  address: {{ADDRESS_JS}}
+  legalName: "Leigh Allen Consulting",
+  email: "leighallenllc@proton.me",
+  phone: "(469) 224-7552",
+  address: "5319 Spanish Bluebells San Antonio TX 78261"
 };
 // ==============================================================================
 
