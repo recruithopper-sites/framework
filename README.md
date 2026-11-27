@@ -1,6 +1,6 @@
 # Framework Website
 
-Recruiting website for Framework (Sales). Live at https://framework.sites.recruithopper.com (GitHub Pages). Created with Recruit Hopper on November 25, 2026.
+Recruiting website for Framework (Sales). Live at https://framework.sites.recruithopper.com (GitHub Pages). Created with Recruit Hopper on November 27, 2026.
 
 ## Editing without a computer setup
 
@@ -19,7 +19,7 @@ Everything can be edited right on GitHub:
 | Colors, fonts, spacing | `styles.css` |
 | Logo | `assets/logo.webp` (replace with a file of the same name) |
 
-## 10DLC / A2P SMS compliance
+## Texting (toll-free / A2P) compliance
 
 The site includes what carriers and The Campaign Registry check for:
 

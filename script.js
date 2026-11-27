@@ -1,6 +1,6 @@
 // ===== Site settings: edit these to update business info across ALL pages =====
-// For 10DLC approval, legalName must match the legal business name registered
-// with The Campaign Registry (exactly as on your EIN / IRS paperwork).
+// For texting approval, legalName must match the legal business name on your
+// toll-free verification (exactly as on your EIN / IRS paperwork).
 const SITE = {
   legalName: "Leigh Allen Consulting",
   email: "leighallenllc@proton.me",
